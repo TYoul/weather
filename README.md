@@ -2,7 +2,7 @@
 
 1.将项目 clone 下来
 
-git clone
+git clone https://github.com/TYoul/weather.git
 
 cd weather
 
