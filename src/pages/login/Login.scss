@@ -1,0 +1,14 @@
+.loginContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .loginBtn {
+    height: 40px;
+    background-color: rgb(255, 102, 0);
+    color: #fff;
+    font-size: 20px;
+  }
+}
